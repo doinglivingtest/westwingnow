@@ -3,7 +3,7 @@ Implementation webdriverio
 
 # Instructions/Config required prior to use...
 ```
-  cd into webdriverio-example-framework/
+  cd into westwingnow/
   
   npm install 
 
